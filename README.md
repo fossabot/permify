@@ -1,4 +1,3 @@
-
 <h1 align="center">
     <img src="https://raw.githubusercontent.com/Permify/permify/master/assets/permify-logo.svg" alt="Permify logo" width="336px" /><br />
     Permify - Open Source Authorization Service
@@ -17,6 +16,9 @@
 </p>
 
 ![Permify - Open source authorization as a service](https://github.com/Permify/permify/assets/39353278/06262e07-84ba-4a1c-b859-870344396600)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FPermify%2Fpermify.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FPermify%2Fpermify?ref=badge_large)
 
 ## Join Our Team
 
@@ -99,6 +101,7 @@ Here are the ways to contribute to Permify:
 
 ### Bounties 
 [![Open Bounties](https://img.shields.io/endpoint?url=https%3A%2F%2Fconsole.algora.io%2Fapi%2Fshields%2Fpermify%2Fbounties%3Fstatus%3Dopen&style=for-the-badge)](https://console.algora.io/org/permify/bounties?status=open)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FPermify%2Fpermify.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FPermify%2Fpermify?ref=badge_shield)
 
 We have a list of [issues](https://github.com/Permify/permify/labels/%F0%9F%92%8E%20Bounty) where you can contribute and gain bounty award! Bounties will be awarded for fixing issues via accepted Pull Requests (PR).
 
